@@ -1,8 +1,8 @@
-# Retell AI — AEO Competitive Visibility Pilot
+# AI Search Visibility
 
-A Python measurement harness for auditing AI-answer-engine brand visibility, built as a 5-business-day pilot framework for Retell AI.
+A Python measurement harness for auditing brand visibility in AI answer engines.
 
-The tool measures where Retell AI (and its competitors) get cited when buyers ask AI-powered search engines about voice AI platforms. It tracks citation share, brand mention rates, answer absorption of Retell's benchmark data (680ms latency, 99.2% tool-calling accuracy), and which third-party gatekeeper domains are shaping category answers.
+The tool measures where a brand (and its competitors) get cited when buyers ask ChatGPT, Perplexity, or Gemini questions in a given category. It tracks citation share, brand mention rates, answer absorption (does the brand's own framing appear in the AI's answer, not just a link?), and which third-party gatekeeper domains are shaping what the AI says. Config-driven via YAML — swap the query set and competitor list to measure any category.
 
 ---
 
@@ -20,8 +20,8 @@ AI answer engines (ChatGPT, Perplexity, Gemini) increasingly answer buyer-intent
 ## Run it now (no API keys needed)
 
 ```bash
-git clone https://github.com/leviwhitted/retell-seo-pilot.git
-cd retell-seo-pilot
+git clone https://github.com/leviwhitted/ai-search-visibility.git
+cd ai-search-visibility
 pip install -r requirements.txt
 
 # Full offline run using synthetic sample data
@@ -111,7 +111,7 @@ The harness controls for AI-answer variance by:
 ## Project structure
 
 ```
-retell-seo-pilot/
+ai-search-visibility/
 ├── harness/
 │   ├── run.py              Entry point -- fetch and store raw runs
 │   ├── scoring.py          Brand mention extraction and scoring
