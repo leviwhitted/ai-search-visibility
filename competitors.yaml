@@ -1,0 +1,52 @@
+primary_brand:
+  name: Retell AI
+  aliases:
+    - Retell
+    - Retell AI
+    - retellai
+  domains:
+    - retellai.com
+
+competitors:
+  - name: Vapi
+    aliases:
+      - Vapi
+      - Vapi AI
+    domains:
+      - vapi.ai
+  - name: Synthflow
+    aliases:
+      - Synthflow
+      - Synthflow AI
+    domains:
+      - synthflow.ai
+  - name: Bland AI
+    aliases:
+      - Bland
+      - Bland AI
+    domains:
+      - bland.ai
+  - name: Cognigy
+    aliases:
+      - Cognigy
+      - Cognigy.AI
+    domains:
+      - cognigy.com
+  - name: Air AI
+    aliases:
+      - Air AI
+      - Air.ai
+    domains:
+      - air.ai
+  - name: Goodcall
+    aliases:
+      - Goodcall
+      - Goodcall AI
+    domains:
+      - goodcall.com
+  - name: PolyAI
+    aliases:
+      - PolyAI
+      - Poly AI
+    domains:
+      - poly.ai

@@ -1,0 +1,55 @@
+<!-- ILLUSTRATIVE EXAMPLE — generated from synthetic sample data, NOT real Retell measurement. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="32" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#b91c1c">ILLUSTRATIVE EXAMPLE — generated from synthetic sample data, NOT real Retell measurement.</text>
+<text x="24" y="70" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Citation source-domain share</text>
+<text x="24" y="94" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Top cited domains from source_domain_share.csv; gatekeeper domains are highlighted.</text>
+<text x="24" y="136" font-family="Arial, sans-serif" font-size="14" fill="#111827">retellai.com</text>
+<rect x="190" y="120" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="120" width="600.0" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="136" font-family="Arial, sans-serif" font-size="13" fill="#111827">348 citations | 26.1%</text>
+<text x="24" y="175" font-family="Arial, sans-serif" font-size="14" fill="#111827">vapi.ai</text>
+<rect x="190" y="159" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="159" width="346.6" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="175" font-family="Arial, sans-serif" font-size="13" fill="#111827">201 citations | 15.1%</text>
+<text x="24" y="214" font-family="Arial, sans-serif" font-size="14" fill="#111827">cognigy.com</text>
+<rect x="190" y="198" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="198" width="222.4" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="214" font-family="Arial, sans-serif" font-size="13" fill="#111827">129 citations | 9.7%</text>
+<text x="24" y="253" font-family="Arial, sans-serif" font-size="14" fill="#111827">synthflow.ai</text>
+<rect x="190" y="237" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="237" width="222.4" height="22" fill="#dc2626" rx="3"/>
+<text x="804" y="253" font-family="Arial, sans-serif" font-size="13" fill="#111827">129 citations | 9.7% | gatekeeper</text>
+<text x="24" y="292" font-family="Arial, sans-serif" font-size="14" fill="#111827">poly.ai</text>
+<rect x="190" y="276" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="276" width="206.9" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="292" font-family="Arial, sans-serif" font-size="13" fill="#111827">120 citations | 9.0%</text>
+<text x="24" y="331" font-family="Arial, sans-serif" font-size="14" fill="#111827">air.ai</text>
+<rect x="190" y="315" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="315" width="150.0" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="331" font-family="Arial, sans-serif" font-size="13" fill="#111827">87 citations | 6.5%</text>
+<text x="24" y="370" font-family="Arial, sans-serif" font-size="14" fill="#111827">goodcall.com</text>
+<rect x="190" y="354" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="354" width="150.0" height="22" fill="#dc2626" rx="3"/>
+<text x="804" y="370" font-family="Arial, sans-serif" font-size="13" fill="#111827">87 citations | 6.5% | gatekeeper</text>
+<text x="24" y="409" font-family="Arial, sans-serif" font-size="14" fill="#111827">docs.retellai.com</text>
+<rect x="190" y="393" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="393" width="144.8" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="409" font-family="Arial, sans-serif" font-size="13" fill="#111827">84 citations | 6.3%</text>
+<text x="24" y="448" font-family="Arial, sans-serif" font-size="14" fill="#111827">bland.ai</text>
+<rect x="190" y="432" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="432" width="119.0" height="22" fill="#dc2626" rx="3"/>
+<text x="804" y="448" font-family="Arial, sans-serif" font-size="13" fill="#111827">69 citations | 5.2% | gatekeeper</text>
+<text x="24" y="487" font-family="Arial, sans-serif" font-size="14" fill="#111827">docs.vapi.ai</text>
+<rect x="190" y="471" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="471" width="72.4" height="22" fill="#0f766e" rx="3"/>
+<text x="804" y="487" font-family="Arial, sans-serif" font-size="13" fill="#111827">42 citations | 3.1%</text>
+<text x="24" y="526" font-family="Arial, sans-serif" font-size="14" fill="#111827">tested.media</text>
+<rect x="190" y="510" width="600" height="22" fill="#e5e7eb" rx="3"/>
+<rect x="190" y="510" width="67.2" height="22" fill="#dc2626" rx="3"/>
+<text x="804" y="526" font-family="Arial, sans-serif" font-size="13" fill="#111827">39 citations | 2.9% | gatekeeper</text>
+<rect x="24" y="518" width="18" height="12" fill="#0f766e"/>
+<text x="50" y="529" font-family="Arial, sans-serif" font-size="13" fill="#374151">Brand/domain source</text>
+<rect x="200" y="518" width="18" height="12" fill="#dc2626"/>
+<text x="226" y="529" font-family="Arial, sans-serif" font-size="13" fill="#374151">Gatekeeper source</text>
+</svg>

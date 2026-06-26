@@ -1,0 +1,199 @@
+geo:
+  country: United States
+  region: California
+  city: Redwood City
+  language: en-US
+
+queries:
+  - id: cat_001
+    group: category_head_terms
+    vertical: general
+    text: What is the best voice AI platform for customer support teams?
+  - id: cat_002
+    group: category_head_terms
+    vertical: general
+    text: Best AI phone agent platform for businesses.
+  - id: cat_003
+    group: category_head_terms
+    vertical: general
+    text: Top conversational voice AI platforms for call centers.
+  - id: cat_004
+    group: category_head_terms
+    vertical: general
+    text: Best AI voice agent API for developers.
+  - id: cat_005
+    group: category_head_terms
+    vertical: general
+    text: Best AI receptionist software for inbound calls.
+  - id: cat_006
+    group: category_head_terms
+    vertical: general
+    text: Best outbound AI calling platform for sales teams.
+  - id: cat_007
+    group: category_head_terms
+    vertical: general
+    text: Voice AI platform with low latency and natural conversations.
+  - id: cmp_001
+    group: comparison_vs_terms
+    vertical: general
+    text: Retell AI vs Vapi for voice agents.
+  - id: cmp_002
+    group: comparison_vs_terms
+    vertical: general
+    text: Retell AI vs Synthflow for AI phone calls.
+  - id: cmp_003
+    group: comparison_vs_terms
+    vertical: general
+    text: Retell AI vs Bland AI for outbound calling.
+  - id: cmp_004
+    group: comparison_vs_terms
+    vertical: general
+    text: Vapi vs Bland AI vs Retell AI.
+  - id: cmp_005
+    group: comparison_vs_terms
+    vertical: general
+    text: Synthflow alternatives for voice AI agents.
+  - id: cmp_006
+    group: comparison_vs_terms
+    vertical: general
+    text: Bland AI alternatives for enterprise voice AI.
+  - id: cmp_007
+    group: comparison_vs_terms
+    vertical: general
+    text: Best Retell AI alternatives.
+  - id: cmp_008
+    group: comparison_vs_terms
+    vertical: general
+    text: Cognigy vs Retell AI for contact centers.
+  - id: hlt_001
+    group: healthcare
+    vertical: healthcare
+    text: Best voice AI platform for healthcare appointment scheduling.
+  - id: hlt_002
+    group: healthcare
+    vertical: healthcare
+    text: HIPAA-ready AI phone agent for clinics.
+  - id: hlt_003
+    group: healthcare
+    vertical: healthcare
+    text: AI voice agents for patient intake calls.
+  - id: fin_001
+    group: financial_services
+    vertical: financial_services
+    text: Best AI phone agent for financial services customer support.
+  - id: fin_002
+    group: financial_services
+    vertical: financial_services
+    text: Voice AI platform for banking call centers.
+  - id: fin_003
+    group: financial_services
+    vertical: financial_services
+    text: AI voice agent for loan servicing calls.
+  - id: ins_001
+    group: insurance
+    vertical: insurance
+    text: Best AI voice agent for insurance claims intake.
+  - id: ins_002
+    group: insurance
+    vertical: insurance
+    text: AI phone automation for insurance agencies.
+  - id: ins_003
+    group: insurance
+    vertical: insurance
+    text: Voice AI platform for insurance customer support.
+  - id: col_001
+    group: debt_collection
+    vertical: debt_collection
+    text: AI voice agent for debt collection calls.
+  - id: col_002
+    group: debt_collection
+    vertical: debt_collection
+    text: Best automated phone system for collections teams.
+  - id: col_003
+    group: debt_collection
+    vertical: debt_collection
+    text: Compliant voice AI for payment reminder calls.
+  - id: hom_001
+    group: home_services
+    vertical: home_services
+    text: Best AI receptionist for home services companies.
+  - id: hom_002
+    group: home_services
+    vertical: home_services
+    text: AI phone answering for HVAC businesses.
+  - id: hom_003
+    group: home_services
+    vertical: home_services
+    text: Voice AI for plumbing service appointment booking.
+  - id: alt_001
+    group: alternatives_battlefield
+    vertical: general
+    text: Synthflow vs Vapi for voice AI agents.
+  - id: alt_002
+    group: alternatives_battlefield
+    vertical: general
+    text: Best Vapi alternative for voice agents.
+  - id: alt_003
+    group: alternatives_battlefield
+    vertical: general
+    text: Bland AI alternatives for voice agents.
+  - id: alt_004
+    group: alternatives_battlefield
+    vertical: general
+    text: Zeeg vs Retell AI for voice agents.
+  - id: alt_005
+    group: alternatives_battlefield
+    vertical: general
+    text: Phonely vs Synthflow for SMB voice AI.
+  - id: alt_006
+    group: alternatives_battlefield
+    vertical: general
+    text: Smith.ai vs Goodcall for AI answering.
+  - id: alt_007
+    group: alternatives_battlefield
+    vertical: general
+    text: Cognigy vs PolyAI for enterprise contact centers.
+  - id: bof_001
+    group: bofu_brand
+    vertical: general
+    text: Retell AI pricing and cost per minute.
+  - id: bof_002
+    group: bofu_brand
+    vertical: general
+    text: Retell AI SOC 2 and HIPAA compliance.
+  - id: bof_003
+    group: bofu_brand
+    vertical: general
+    text: Air AI reviews and reliability.
+  - id: bof_004
+    group: bofu_brand
+    vertical: general
+    text: Best AI phone agent 2026.
+  - id: smb_001
+    group: smb_receptionist
+    vertical: general
+    text: Best AI receptionist for small business.
+  - id: smb_002
+    group: smb_receptionist
+    vertical: general
+    text: Best AI answering service for small business.
+  - id: smb_003
+    group: smb_receptionist
+    vertical: healthcare
+    text: AI receptionist for dental practices.
+  - id: smb_004
+    group: smb_receptionist
+    vertical: healthcare
+    text: AI answering service for medical offices.
+  - id: ver_001
+    group: additional_verticals
+    vertical: real_estate
+    text: AI voice agent for real estate lead qualification.
+  - id: ver_002
+    group: additional_verticals
+    vertical: hospitality
+    text: AI voice booking agent for restaurants.
+  - id: ver_003
+    group: additional_verticals
+    vertical: ecommerce
+    text: Ecommerce AI phone support for order tracking.

@@ -1,0 +1,47 @@
+# Third-party gatekeeper / source domains that shape AI answers and SERPs for
+# the voice-AI category. The harness flags when these are cited so the report
+# shows the "citation battlefield" (where competitors author Retell's story).
+# Sourced from the 2026 Gemini competitive report and Perplexity GEO research:
+#   research/raw_gemini_2026-06-26/advanced_ai_voice_agent_seo_analysis.txt
+#   research/raw_perplexity_2026-06-26/aeo-geo-citation-report.md
+
+gatekeeper_domains:
+  # Technical benchmark / review aggregators
+  - tested.media
+  - pickaxe.co
+  - vellum.ai
+  - ringly.io
+  - lindy.ai
+  # SMB / receptionist gatekeepers
+  - agentzap.ai
+  - onsaas.me
+  - open.cx
+  - goodcall.com
+  - getnextphone.com
+  # Parasite-SEO / adjacent vendors publishing "Retell alternatives"
+  - zeeg.me
+  - phonely.ai
+  - synthflow.ai
+  - bland.ai
+  # Review platforms (near-binary SaaS citation gate per GEO research)
+  - g2.com
+  - capterra.com
+  - getapp.com
+  - trustpilot.com
+  # Community / sentiment sources
+  - reddit.com
+  - news.ycombinator.com
+  # Encyclopedic / entity signals
+  - en.wikipedia.org
+  - wikidata.org
+
+# Retell-specific framing/data to test for citation ABSORPTION: does Retell's
+# own narrative appear in the answer text, not merely as a cited URL? Selection
+# without absorption overstates influence (Zhang et al. 2026).
+absorption_markers:
+  - "680ms"
+  - "680 ms"
+  - "99.2%"
+  - "turn-taking"
+  - "production-grade"
+  - "SOC 2 Type II"
