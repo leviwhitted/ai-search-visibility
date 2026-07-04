@@ -105,6 +105,10 @@ The source-share readout supports two conclusions in this sample: Retell's owned
 - [Brand visibility rates](charts/brand_visibility_rates.svg)
 - [Citation source-domain share](charts/source_domain_share.svg)
 
+## Note: synthetic scores vs. live signal
+
+The 100% Retell scores above come from the synthetic sample panel and exist only to demonstrate the report format. A separate set of live, single-run spot checks on logged-in consumer engines surfaced a different and more actionable pattern: for several vertical, receptionist, and comparison framings, Retell was not cited at all, and vertical-specialist competitors appeared in its place. That divergence is exactly why the real deliverable runs repeated samples per query across engines rather than trusting any single answer. Treat the live spot check as directional and the synthetic scores as format-only.
+
 ## Limitations
 
 This is an illustrative example generated from synthetic sample data, not a real Retell measurement. The sample run is designed to prove the report shape and scoring workflow.
